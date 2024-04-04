@@ -17,11 +17,11 @@ function About() {
             </p>
             <p>
                 Finalement, c'&eacute;tais centr&eacute; sur le d&eacute;veloppement, surtout syst&egrave;me en Java puis en C++.
-                Ces ann&eacute;es de DUT m'ont permis d'aimer la prog qui me semblait hors de ma port&eacute;e.
+                Ces ann&eacute;es de DUT m'ont permis d'aimer la prog qui me semblait, jusqu'ici, hors de ma port&eacute;e.
             </p>
             <p>
                 Aujourd'hui, le dev fait partie de ma vie, comme une seconde nature. <br />
-                Le web est ce que je fais le plus, bien que le dev logiciel est encore pr&eacute;sent r&eacute;guli&egrave;ment.
+                Le web est ce que je fais le plus, bien que le dev logiciel est encore pr&eacute;sent r&eacute;guli&egrave;rement.
                 Et quand on a fait du Java ou du C++, les technos web, c'est un peu le niveau facile.
             </p>
         </div>
