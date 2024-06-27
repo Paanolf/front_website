@@ -1,6 +1,6 @@
-# Code source Front de mon site perso.
+# Ancien Front de mon site perso
 
-Vous êtes sur le repo du front de mon site web perso
+Vous êtes sur le repo de l'ancien front de mon site perso. Celui ci ayant changer pour quelque chose de plus cohérent et qui me plait plus.
 
 Sa stack technique se compose :
 - [React + Vite + TS](https://vitejs.dev/)
